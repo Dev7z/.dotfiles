@@ -43,3 +43,6 @@ colors:
 cursor:
   style:
     blinking:   On
+
+font:
+  size: 16
